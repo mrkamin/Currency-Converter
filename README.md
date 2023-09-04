@@ -57,7 +57,7 @@ Example commands:
 
 ```sh
   cd your-folder
-  git clone git@github.com:mrkamin/countdown-timer.git
+  git clone git@github.com:mrkamin/Currency-Converter.git
 ```
 
 ### Install
@@ -78,7 +78,7 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-  npm start
+  run live
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -100,7 +100,6 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] **Add a Stop whatch**
 - [x] **Apply rspec for testing**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -111,7 +110,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mrkamin/countdown-timer/issues).
+Feel free to check the [issues page](https://github.com/mrkamin/Currency-Converter/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +126,7 @@ If you like this project please give it a ⭐️. Your support is greatly apprec
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank [TechnoHacks](https://technohacks.co.in/) for giving us this chance to learn how to build a Countdown Timer in React Application.
+We would like to thank [TechnoHacks](https://technohacks.co.in/) for giving us this chance to learn how to build a Currency Converter in Plain JavaScript Application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,6 +134,6 @@ We would like to thank [TechnoHacks](https://technohacks.co.in/) for giving us t
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/mrkamin/Currency-Converter/blob/Dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
