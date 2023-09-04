@@ -31,7 +31,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Render](https://coundowntimer-pm4i.onrender.com)
+- [Github](https://mrkamin.github.io/Currency-Converter)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
